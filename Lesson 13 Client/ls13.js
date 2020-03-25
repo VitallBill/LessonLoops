@@ -4,7 +4,11 @@ function show(data) {
 
 
 
+<<<<<<< HEAD
 
+=======
+//Commit inside folder
+>>>>>>> TestiongToAddLesson13
 
 
 
